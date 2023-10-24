@@ -1,5 +1,3 @@
-Mullakhmetov Artur
-==================
 ## About Me
 Software Engineer with 8+ years of experience and a bachelor's degree in Information Security. Technology- and language-agnostic. Experienced in designing reliable, scalable, and maintainable systems.
 
